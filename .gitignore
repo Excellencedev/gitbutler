@@ -15,8 +15,6 @@ $.zed
 e2e/blackbox/videos/*.mp4
 e2e/web/test-results/
 
-.env
-.env.*
 node_modules
 .direnv/
 
@@ -73,3 +71,4 @@ packages/ui/tests/.cache
 packages/ui/src/styles/tokens.css
 
 debug-graph-??.svg
+config.bat
